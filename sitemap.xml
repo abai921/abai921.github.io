@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://abai921.github.io/post/blog/</loc>
-    <lastmod>2023-02-28T12:31:28+08:00</lastmod>
-  </url><url>
-    <loc>https://abai921.github.io/</loc>
-    <lastmod>2023-02-28T12:31:28+08:00</lastmod>
-  </url><url>
-    <loc>https://abai921.github.io/post/</loc>
-    <lastmod>2023-02-28T12:31:28+08:00</lastmod>
-  </url><url>
-    <loc>https://abai921.github.io/post/gitlearn/</loc>
-    <lastmod>2023-02-27T19:52:03+08:00</lastmod>
-  </url><url>
-    <loc>https://abai921.github.io/categories/</loc>
-  </url><url>
-    <loc>https://abai921.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://abai921.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2023-02-28T12:31:28+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://abai921.github.io/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://abai921.github.io/ar/sitemap.xml</loc>
+    
+      <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

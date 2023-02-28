@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Feb 2023 19:52:03 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GitLearn</title>
+      <title>***GitLearn***</title>
       <link>http://example.org/post/gitlearn/</link>
       <pubDate>Mon, 27 Feb 2023 19:52:03 +0800</pubDate>
       
       <guid>http://example.org/post/gitlearn/</guid>
-      <description>GitLearn 概念 Git叫做版本控制工具，
+      <description>==GitLearn== 概念 Git叫做版本控制工具，
 你好，git 第一次更新内容 </description>
     </item>
     
